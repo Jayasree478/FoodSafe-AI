@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment / secrets
+.env
+
+# VS Code
+.vscode/
+
+# Large model files
+*.h5
+*.keras
+*.pth
+*.pt
+*.onnx
